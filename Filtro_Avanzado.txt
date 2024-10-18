@@ -1,0 +1,7 @@
+
+Mi ip es: 
+190.190.24.2 Mi usuario es: 
+vagrant
+El Hash de mi usuario es:
+$y$j9T$HIXNPU/DrODZlJ8sit5Sj1$hajA5.euuNe7pqRlissf5wyNZLs0sRRnptBnVVSpYbD
+ 
